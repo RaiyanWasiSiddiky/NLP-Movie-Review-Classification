@@ -1,16 +1,17 @@
 # NLP-Movie-Review-Classification
 
+
+
+## Introduction
+
+This project, titled "Movie Review Classifier," delves into Natural Language Processing (NLP) to create a sentiment analysis algorithm for movie reviews. The classification task involves training models on a dataset of movie reviews and categorizing them as either positive or negative. The project explores three different models: a shallow neural network, an LSTM model, and a bidirectional LSTM model.
+
 ## Team Information
 
 | Name                |
 |---------------------|
 | Shihab Muhtasim  |
 | Raiyan Wasi Siddiky |
-
-## Introduction
-
-This project, titled "Movie Review Classifier," delves into Natural Language Processing (NLP) to create a sentiment analysis algorithm for movie reviews. The classification task involves training models on a dataset of movie reviews and categorizing them as either positive or negative. The project explores three different models: a shallow neural network, an LSTM model, and a bidirectional LSTM model.
-
 ## Instructions 
 
 As the project was executed on Google Colab, it is recommended to run the code on the same platform due to potential compatibility issues with local IDEs. Instructions for uploading necessary files are provided in the code. The required files are `imdb_440.zip` (IMDB dataset file) and `glove.6B.100d.txt` (GloVe embeddings file).
