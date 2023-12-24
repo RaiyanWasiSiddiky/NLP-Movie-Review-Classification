@@ -1,4 +1,4 @@
-# Movie Review Classifier - NLP Project
+# NLP-Movie-Review-Classification
 
 ## Team Information
 
