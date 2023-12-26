@@ -11,6 +11,7 @@
 ## Introduction
 
 This project, titled "Movie Review Classifier," delves into Natural Language Processing (NLP) to create a sentiment analysis algorithm for movie reviews. The classification task involves training models on a dataset of movie reviews and categorizing them as either positive or negative. The project explores three different models: a shallow neural network, an LSTM model, and a bidirectional LSTM model.
+
 ![15](https://github.com/shihabmuhtasim/NLP-Movie-Review-Classification/assets/92597456/d14e4038-048c-4f52-b388-a7ed5ce59a63)
 
 ## Team Information
