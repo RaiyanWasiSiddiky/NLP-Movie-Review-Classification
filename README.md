@@ -21,8 +21,9 @@ This project, titled "Movie Review Classifier," delves into Natural Language Pro
 | Raiyan Wasi Siddiky |
 
 ## Datasets
-- Glov file: https://drive.google.com/file/d/1CLrwskD-M8ce0M5agxRjB3OhKuKiCcCn/view
-- IMDB dataset: https://drive.google.com/file/d/1hyn6U44cvUNedMnzPHzHsiBgXMHFBjBw/view
+- [Glov file](https://drive.google.com/file/d/1CLrwskD-M8ce0M5agxRjB3OhKuKiCcCn/view)
+- [IMDB dataset](https://drive.google.com/file/d/1hyn6U44cvUNedMnzPHzHsiBgXMHFBjBw/view)
+
 ## Instructions 
 
 As the project was executed on Google Colab, it is recommended to run the code on the same platform due to potential compatibility issues with local IDEs. Instructions for uploading necessary files are provided in the code. The required files are `imdb_440.zip` (IMDB dataset file) and `glove.6B.100d.txt` (GloVe embeddings file).
