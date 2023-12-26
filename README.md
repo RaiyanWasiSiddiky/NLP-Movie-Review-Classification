@@ -1,10 +1,17 @@
 # NLP-Movie-Review-Classification
+![GitHub top language](https://img.shields.io/github/languages/top/shihabmuhtasim/NLP-Movie-Review-Classification?color=f5f5dc)
+![GitHub language count](https://img.shields.io/github/languages/count/shihabmuhtasim/NLP-Movie-Review-Classification?color=f5f5dc)
+![GitHub last commit](https://img.shields.io/github/last-commit/shihabmuhtasim/NLP-Movie-Review-Classification?color=f5f5dc)
+![GitHub repo file count](https://img.shields.io/github/directory-file-count/shihabmuhtasim/NLP-Movie-Review-Classification?color=f5f5dc)
+![GitHub repo size](https://img.shields.io/github/repo-size/shihabmuhtasim/NLP-Movie-Review-Classification?color=f5f5dc)
+![GitHub watchers](https://img.shields.io/github/watchers/shihabmuhtasim/NLP-Movie-Review-Classification?style=social)
 
 
 
 ## Introduction
 
 This project, titled "Movie Review Classifier," delves into Natural Language Processing (NLP) to create a sentiment analysis algorithm for movie reviews. The classification task involves training models on a dataset of movie reviews and categorizing them as either positive or negative. The project explores three different models: a shallow neural network, an LSTM model, and a bidirectional LSTM model.
+![15](https://github.com/shihabmuhtasim/NLP-Movie-Review-Classification/assets/92597456/d14e4038-048c-4f52-b388-a7ed5ce59a63)
 
 ## Team Information
 
@@ -12,6 +19,10 @@ This project, titled "Movie Review Classifier," delves into Natural Language Pro
 |---------------------|
 | Shihab Muhtasim  |
 | Raiyan Wasi Siddiky |
+
+## Datasets
+- Glov file: https://drive.google.com/file/d/1CLrwskD-M8ce0M5agxRjB3OhKuKiCcCn/view
+- IMDB dataset: https://drive.google.com/file/d/1hyn6U44cvUNedMnzPHzHsiBgXMHFBjBw/view
 ## Instructions 
 
 As the project was executed on Google Colab, it is recommended to run the code on the same platform due to potential compatibility issues with local IDEs. Instructions for uploading necessary files are provided in the code. The required files are `imdb_440.zip` (IMDB dataset file) and `glove.6B.100d.txt` (GloVe embeddings file).
